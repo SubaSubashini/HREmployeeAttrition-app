@@ -43,7 +43,7 @@ Deployment (Optional)	Streamlit / Flask
 
 
 
-🧾 Dataset
+<h1>🧾 Dataset</h1>
 
 Dataset Name: HR Employee Attrition Dataset
 
@@ -76,7 +76,7 @@ Attrition (Target Variable)
 
 
 
-⚙️ Project Workflow
+<h1>⚙️ Project Workflow</h1>
 
 1. Data Collection – Import and explore HR dataset.
 
@@ -103,7 +103,7 @@ Attrition (Target Variable)
 
 
 
-📊 Exploratory Data Analysis (EDA)
+<h2>📊 Exploratory Data Analysis (EDA)</h2>
 
 Distribution of employees by Age, Department, and Gender.
 
@@ -114,7 +114,7 @@ Correlation heatmap to identify key influencing variables.
 Attrition trend visualization using bar and pie charts.
 
 
-💻 Model Performance
+<h1>💻 Model Performance</h1>
 
 Model               	Accuracy	F1-Score	ROC-AUC
 Logistic Regression   	82%     	0.78	   0.81
