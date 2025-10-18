@@ -197,7 +197,7 @@ Seaborn Documentation
 👩‍💻 Author
 
 Subashini M
-📧 <a href="https://www.linkedin.com/in/subashini-mani-76b90b280"> LINKEDIN </>
+📧 <a href="https://www.linkedin.com/in/subashini-mani-76b90b280"> LINKEDIN </a>
 💼 LinkedIn Profile
 ⭐ If you found this project helpful, don’t forget to give it a star!
 </html>
